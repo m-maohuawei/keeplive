@@ -5,7 +5,7 @@ import android.app.Service;
 import android.content.Intent;
 import android.os.Handler;
 import android.os.IBinder;
-import android.support.annotation.MainThread;
+
 
 import com.fanjun.keeplive.KeepLive;
 import com.fanjun.keeplive.config.NotificationUtils;
